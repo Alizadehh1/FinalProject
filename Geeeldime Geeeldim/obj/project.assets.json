@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alide\\OneDrive\\Desktop\\Geeeldime Geeeldim\\Geeeldime Geeeldim\\Geeeldime Geeeldim.csproj",
+      "projectUniqueName": "C:\\Users\\alide\\OneDrive\\Desktop\\Geeeldime Geeeldim\\FinalProject\\Geeeldime Geeeldim\\Geeeldime Geeeldim.csproj",
       "projectName": "Geeeldime Geeeldim",
-      "projectPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Geeeldime Geeeldim\\Geeeldime Geeeldim\\Geeeldime Geeeldim.csproj",
+      "projectPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Geeeldime Geeeldim\\FinalProject\\Geeeldime Geeeldim\\Geeeldime Geeeldim.csproj",
       "packagesPath": "C:\\Users\\alide\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Geeeldime Geeeldim\\Geeeldime Geeeldim\\obj\\",
+      "outputPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Geeeldime Geeeldim\\FinalProject\\Geeeldime Geeeldim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alide\\AppData\\Roaming\\NuGet\\NuGet.Config",
