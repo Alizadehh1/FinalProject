@@ -1,0 +1,19 @@
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\Geeeldime Geeeldim.exe
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\Geeeldime Geeeldim.deps.json
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\Geeeldime Geeeldim.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\Geeeldime Geeeldim.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\Geeeldime Geeeldim.dll
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\ref\Geeeldime Geeeldim.dll
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\Geeeldime Geeeldim.pdb
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\bin\Debug\net5.0\MyHelperMethods.pdb
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.csproj.AssemblyReference.cache
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.csproj.CopyComplete
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.dll
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\ref\Geeeldime Geeeldim.dll
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.pdb
+C:\Users\alide\OneDrive\Desktop\Geeeldime Geeeldim\Geeeldime Geeeldim\obj\Debug\net5.0\Geeeldime Geeeldim.genruntimeconfig.cache
